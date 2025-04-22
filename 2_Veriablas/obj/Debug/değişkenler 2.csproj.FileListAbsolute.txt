@@ -1,0 +1,7 @@
+C:\Users\EXCALIBUR\source\repos\ahmet\değişkenler 2\bin\Debug\değişkenler 2.exe.config
+C:\Users\EXCALIBUR\source\repos\ahmet\değişkenler 2\bin\Debug\değişkenler 2.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\değişkenler 2\bin\Debug\değişkenler 2.pdb
+C:\Users\EXCALIBUR\source\repos\ahmet\değişkenler 2\obj\Debug\değişkenler 2.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\değişkenler 2\obj\Debug\değişkenler 2.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\değişkenler 2\obj\Debug\değişkenler 2.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\değişkenler 2\obj\Debug\değişkenler 2.pdb

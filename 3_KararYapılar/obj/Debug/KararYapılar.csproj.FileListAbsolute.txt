@@ -1,0 +1,7 @@
+C:\Users\EXCALIBUR\source\repos\ahmet\KararYapılar\bin\Debug\KararYapılar.exe.config
+C:\Users\EXCALIBUR\source\repos\ahmet\KararYapılar\bin\Debug\KararYapılar.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\KararYapılar\bin\Debug\KararYapılar.pdb
+C:\Users\EXCALIBUR\source\repos\ahmet\KararYapılar\obj\Debug\KararYapılar.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\KararYapılar\obj\Debug\KararYapılar.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\KararYapılar\obj\Debug\KararYapılar.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\KararYapılar\obj\Debug\KararYapılar.pdb
