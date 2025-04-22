@@ -1,0 +1,7 @@
+C:\Users\EXCALIBUR\source\repos\ahmet\arrays(diziler)-6\bin\Debug\arrays(diziler)-6.exe.config
+C:\Users\EXCALIBUR\source\repos\ahmet\arrays(diziler)-6\bin\Debug\arrays(diziler)-6.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\arrays(diziler)-6\bin\Debug\arrays(diziler)-6.pdb
+C:\Users\EXCALIBUR\source\repos\ahmet\arrays(diziler)-6\obj\Debug\arrays(diziler)-6.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\arrays(diziler)-6\obj\Debug\arrays(diziler)-6.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\arrays(diziler)-6\obj\Debug\arrays(diziler)-6.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\arrays(diziler)-6\obj\Debug\arrays(diziler)-6.pdb

@@ -1,0 +1,7 @@
+C:\Users\EXCALIBUR\source\repos\ahmet\5-loopswithstars\bin\Debug\5-loopswithstars.exe.config
+C:\Users\EXCALIBUR\source\repos\ahmet\5-loopswithstars\bin\Debug\5-loopswithstars.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\5-loopswithstars\bin\Debug\5-loopswithstars.pdb
+C:\Users\EXCALIBUR\source\repos\ahmet\5-loopswithstars\obj\Debug\5-loopswithstars.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\5-loopswithstars\obj\Debug\5-loopswithstars.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\5-loopswithstars\obj\Debug\5-loopswithstars.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\5-loopswithstars\obj\Debug\5-loopswithstars.pdb

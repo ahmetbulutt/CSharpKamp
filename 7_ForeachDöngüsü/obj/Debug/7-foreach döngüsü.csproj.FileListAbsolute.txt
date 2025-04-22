@@ -1,0 +1,7 @@
+C:\Users\EXCALIBUR\source\repos\ahmet\7-foreach döngüsü\bin\Debug\7-foreach döngüsü.exe.config
+C:\Users\EXCALIBUR\source\repos\ahmet\7-foreach döngüsü\bin\Debug\7-foreach döngüsü.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\7-foreach döngüsü\bin\Debug\7-foreach döngüsü.pdb
+C:\Users\EXCALIBUR\source\repos\ahmet\7-foreach döngüsü\obj\Debug\7-foreach döngüsü.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\7-foreach döngüsü\obj\Debug\7-foreach döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\7-foreach döngüsü\obj\Debug\7-foreach döngüsü.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\7-foreach döngüsü\obj\Debug\7-foreach döngüsü.pdb

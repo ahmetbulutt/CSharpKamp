@@ -1,0 +1,7 @@
+C:\Users\EXCALIBUR\source\repos\ahmet\4-loops\obj\Debug\4-loops.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\4-loops\obj\Debug\4-loops.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\4-loops\bin\Debug\4-loops.exe.config
+C:\Users\EXCALIBUR\source\repos\ahmet\4-loops\bin\Debug\4-loops.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\4-loops\bin\Debug\4-loops.pdb
+C:\Users\EXCALIBUR\source\repos\ahmet\4-loops\obj\Debug\4-loops.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\4-loops\obj\Debug\4-loops.pdb

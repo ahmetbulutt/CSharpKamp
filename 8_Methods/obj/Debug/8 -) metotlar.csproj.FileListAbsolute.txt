@@ -1,0 +1,7 @@
+C:\Users\EXCALIBUR\source\repos\ahmet\8 -) metotlar\bin\Debug\8 -) metotlar.exe.config
+C:\Users\EXCALIBUR\source\repos\ahmet\8 -) metotlar\bin\Debug\8 -) metotlar.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\8 -) metotlar\bin\Debug\8 -) metotlar.pdb
+C:\Users\EXCALIBUR\source\repos\ahmet\8 -) metotlar\obj\Debug\8 -) metotlar.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\8 -) metotlar\obj\Debug\8 -) metotlar.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\8 -) metotlar\obj\Debug\8 -) metotlar.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\8 -) metotlar\obj\Debug\8 -) metotlar.pdb
