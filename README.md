@@ -1,4 +1,4 @@
-Proje 1: Merhaba Dünya!
+📍 Proje 1: Merhaba Dünya!
 İlk satır kodumu yazdım! Console.WriteLine() komutuyla ekrana yazı yazdırmayı öğrenerek C# evrenine adım attım. 🖐️
 
 📍 Proje 2: Değişkenlerle Tanışma
