@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\bin\Debug\net8.0\ahmet.exe
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\bin\Debug\net8.0\ahmet.deps.json
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\bin\Debug\net8.0\ahmet.runtimeconfig.json
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\bin\Debug\net8.0\ahmet.dll
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\bin\Debug\net8.0\ahmet.pdb
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\obj\Debug\net8.0\ahmet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\obj\Debug\net8.0\ahmet.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\obj\Debug\net8.0\ahmet.AssemblyInfo.cs
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\obj\Debug\net8.0\ahmet.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\obj\Debug\net8.0\ahmet.dll
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\obj\Debug\net8.0\refint\ahmet.dll
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\obj\Debug\net8.0\ahmet.pdb
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\obj\Debug\net8.0\ahmet.genruntimeconfig.cache
+C:\Users\EXCALIBUR\source\repos\ahmet\ahmet\obj\Debug\net8.0\ref\ahmet.dll
