@@ -22,7 +22,7 @@ Kod tekrarını azaltmak ve yapıyı güzelleştirmek adına kendi metotlarımı
 📍 Proje 8: Fonksiyonlarla Sonuç Üretme
 Kullanıcıdan veri alıp işleyen, sonuçları geri döndüren fonksiyonlar yazdım. Mantıksal akış ve fonksiyonel programlama konularında ciddi gelişim kaydettim. 🧩
 
-📍 CSharEgitimKampi.EF: 
+📍 CSharEgitimKampi.EF: Bu projede, Murat Yücedağ'ın C# eğitim kampı kapsamında öğrendiğimiz Entity Framework yapısını kullanarak Windows Forms üzerinden bir tur acentesine ait istatistiksel verileri görselleştirdik. 🚀 Elde edilen veriler; toplam kapasite, ortalama tur fiyatı, en pahalı tur, en yüksek kapasiteli tur gibi bilgileri renkli kutularla dinamik olarak kullanıcıya sunuyor. 🎨 Bu uygulama, veri çekme ve analiz etme yeteneklerini geliştirirken aynı zamanda Windows Form arayüz tasarımı konusunda da pratik yapma imkânı sundu. 💼
 
 ![muratyücedağef png](https://github.com/user-attachments/assets/05662acd-273c-4a3c-bed2-b566062caaf6)
 
