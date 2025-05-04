@@ -22,3 +22,7 @@ Kod tekrarını azaltmak ve yapıyı güzelleştirmek adına kendi metotlarımı
 📍 Proje 8: Fonksiyonlarla Sonuç Üretme
 Kullanıcıdan veri alıp işleyen, sonuçları geri döndüren fonksiyonlar yazdım. Mantıksal akış ve fonksiyonel programlama konularında ciddi gelişim kaydettim. 🧩
 
+📍 CSharEgitimKampi.EF: 
+
+![muratyücedağef png](https://github.com/user-attachments/assets/05662acd-273c-4a3c-bed2-b566062caaf6)
+
