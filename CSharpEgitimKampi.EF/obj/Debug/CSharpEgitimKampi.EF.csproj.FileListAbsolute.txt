@@ -1,0 +1,17 @@
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\bin\Debug\CSharpEgitimKampi.EF.exe.config
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\bin\Debug\CSharpEgitimKampi.EF.exe
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\bin\Debug\CSharpEgitimKampi.EF.pdb
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\bin\Debug\EntityFramework.dll
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\bin\Debug\EntityFramework.xml
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\obj\Debug\CSharpEgitimKampi.EF.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\obj\Debug\CSharpEgitimKampi.EF.Form1.resources
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\obj\Debug\CSharpEgitimKampi.EF.Properties.Resources.resources
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\obj\Debug\CSharpEgitimKampi.EF.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\obj\Debug\CSharpEgitimKampi.EF.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\obj\Debug\CSharpEg.BB2158C1.Up2Date
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\obj\Debug\CSharpEgitimKampi.EF.exe
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\obj\Debug\CSharpEgitimKampi.EF.pdb
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\obj\Debug\CSharpEgitimKampi.EF.FrmLocaiton.resources
+C:\Users\EXCALIBUR\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi.EF\obj\Debug\CSharpEgitimKampi.EF.FrmStatiscticcs.resources
