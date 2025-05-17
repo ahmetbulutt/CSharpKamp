@@ -26,3 +26,16 @@ Kullanıcıdan veri alıp işleyen, sonuçları geri döndüren fonksiyonlar yaz
 
 ![muratyücedağef png](https://github.com/user-attachments/assets/05662acd-273c-4a3c-bed2-b566062caaf6)
 
+
+📍 Final Proje : Windows Forms ile geliştirdiğim bu Finansal CRM uygulaması, müşteri ve finansal işlemleri kolayca yönetmen için hazır! 📊 Müşteri takibi, işlem kaydı ve basit raporlama özellikleriyle işlerini hızlandırır 🚀.
+![1.Fotoğraf](https://github.com/user-attachments/assets/ab5b01ab-8cb9-47da-9498-8228f1e9534a)
+![2.Fotoğraf](https://github.com/user-attachments/assets/69f73441-c65f-46d3-b1b8-d206c26a1cb8)
+![3.Fotoğraf](https://github.com/user-attachments/assets/0cf8c2a3-2996-4dd4-ae32-81d03f450356)
+
+
+https://github.com/user-attachments/assets/9121ac08-2610-4c7f-afb7-988302ab1036
+
+
+
+
+
