@@ -1,0 +1,15 @@
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\bin\Debug\MyFinancialCrmm.exe.config
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\bin\Debug\MyFinancialCrmm.exe
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\bin\Debug\MyFinancialCrmm.pdb
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\bin\Debug\EntityFramework.dll
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\bin\Debug\EntityFramework.xml
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\obj\Debug\MyFinancialCrmm.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\obj\Debug\MyFinancialCrmm.FrmBanks.resources
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\obj\Debug\MyFinancialCrmm.Properties.Resources.resources
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\obj\Debug\MyFinancialCrmm.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\obj\Debug\MyFinancialCrmm.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\obj\Debug\MyFinanc.2A9B621E.Up2Date
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\obj\Debug\MyFinancialCrmm.exe
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\obj\Debug\MyFinancialCrmm.pdb
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\obj\Debug\MyFinancialCrmm.FrmBilling.resources
+C:\Users\EXCALIBUR\source\repos\MyFinancialCrmm\MyFinancialCrmm\obj\Debug\MyFinancialCrmm.FrmDashboard.resources
